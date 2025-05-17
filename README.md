@@ -1,3 +1,14 @@
+I coded this app in React Native (with expo) using VS Code. It's a pretty simple app, with 4 tabs -
+   1. Home
+   2. Search
+   3. Saved/Bookmark
+   4. Profile
+Of these, home and search are completely built, while saved and profile are yet to be implemented.
+It uses the TMDB (The Movie Database) API.
+I followed a youtube tutorial by a channel called "JavaScript Mastery", which was really insightful.
+I hope you like it!
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
