@@ -3,6 +3,8 @@ I coded this app in React Native (with expo) using VS Code. It's a pretty simple
    2. Search
    3. Saved/Bookmark
    4. Profile
+
+
 Of these, home and search are completely built, while saved and profile are yet to be implemented.
 It uses the TMDB (The Movie Database) API.
 I followed a youtube tutorial by a channel called "JavaScript Mastery", which was really insightful.
